@@ -1,3 +1,7 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/diragb/SagittariusAStar/blob/master/LICENSE)
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/diragb/SagittariusAStar/blob/master/SagittariusAStar.js)
+[![HitCount](http://hits.dwyl.io/Naereen/hits.svg)](https://github.com/diragb/SagittariusAStar/blob/master/SagittariusAStar.js)
+
 # SagittariusAStar
 <b>Named after a <a href="https://upload.wikimedia.org/wikipedia/commons/9/9f/Sagittarius_A%2A_black_hole_simulation.png">black hole</a>, works like it.</b>
 

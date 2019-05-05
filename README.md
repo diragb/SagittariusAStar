@@ -23,7 +23,7 @@ Anyway, on navigation to results page, it checks the width of the 4th table on t
 Oh well, let's get to the issues:
 1. It's restricted to only one school.
 2. Slow internet may cause the DNS lookup to fail, causing the code to puke on itself.
-3. Saved JSON doesn't havea closing bracket, I mean, deal with it.. I guess? <b>Or open an issue and fix it without affecting the speed and efficiency.</b>
+3. Saved CBSEResults.json doesn't have a closing bracket, I mean, deal with it.. I guess? <b>Or open an issue and fix it without affecting the speed and efficiency.</b>
 4. Cannot run headless, at least on my machine. I've looked up reasons, turns out it's <a href="https://github.com/GoogleChrome/puppeteer/issues/1718">Puppeteer's fault</a>. Ask them to fix it, not me.
 5. Saved JSON uses the admid to save new entries. I'm sorry but, the admid-s are non-unique and can only be uniquely identified along with their roll no./reg number. Why? I don't know. Why have an ID system that's not pseudorandomly generated and not the primary key?
 

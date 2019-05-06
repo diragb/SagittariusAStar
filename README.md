@@ -9,7 +9,7 @@ Scrapes results from the <a href="http://cbseresults.nic.in/class12/Class12th19.
 
 
 ## Dependencies
-Requires a <a href="https://nodejs.org">Node.js</a> environment to work, along with <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> and <a href="https://download-chromium.appspot.com/">Chromium</a>.
+Requires a <a href="https://nodejs.org">Node.js</a> environment to work, along with <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> (requires <a href="https://www.npmjs.com/get-npm">NPM</a>) and <a href="https://download-chromium.appspot.com/">Chromium</a>.
 Also requires a laptop that doesn't melt, unlike mine (Chromium's Blink and V8 puts a big pressure on the CPU for page rendering, I guess).
 
 

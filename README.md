@@ -36,7 +36,7 @@ Oh well, let's get to the issues:
 ## Conclusion
 Decades old syllabus, a failing structure, and lazy reforms, lousy security as well now. The new CBSE Chairperson, Ms. Anita Karwal, IAS, is an <a href="https://www.thebetterindia.com/112136/the-amazing-karwals/">immensely inspirational figure</a> (and her husband is, too). I simply wish the reforms she's aiming for take place sooner.
 
-Oh and, all of my school's result is in the CBSEResults.json file. No personal details included.
+Oh and, all of my school's result is in the [CBSEResults.json](https://github.com/diragb/SagittariusAStar/blob/master/CBSEResults.json) file. No personal details included.
 
 Best,
 
